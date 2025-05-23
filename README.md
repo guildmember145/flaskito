@@ -18,12 +18,6 @@ Este proyecto es una aplicación Flask que demuestra la integración con la API 
 * Una cuenta en Khipu DemoBank con una API Key (formato UUID) habilitada para ARS.
 * `pip` para la gestión de paquetes Python.
 
-## Estructura del Proyecto
-
-
-
-## Contenido del archivo .env
-
 # Credenciales y configuración de Khipu
 KHIPU_MERCHANT_API_KEY="TU_API_KEY_DE_KHIPU_FORMATO_UUID_PARA_ARS"
 KHIPU_TARGET_API_URL="[https://payment-api.khipu.com](https://payment-api.khipu.com)" # URL de la API v3 de Khipu
